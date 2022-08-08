@@ -1,0 +1,13 @@
+body{
+    background: whitesmoke;
+    letter-spacing: .2em;
+    font-size: .8em;
+}
+
+.container{
+    max-width: 400px;
+}
+
+.myLabel{
+    padding-bottom: 10px;;
+}
